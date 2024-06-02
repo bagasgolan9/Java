@@ -1,2 +1,2 @@
 # Java
-Menjalankan aplikasi menggunakan Android Studio
+Menjalankan program menggunakan IDE Android Studio
